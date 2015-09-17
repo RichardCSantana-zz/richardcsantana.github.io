@@ -1,10 +1,7 @@
 
 # lean-kanban
 
-From the terminal, pop in:
+######Fernando Jorge - Gabriel Henrique - Marcelo Hammes - Richard Santana
 
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```
+note:
+  Testando
