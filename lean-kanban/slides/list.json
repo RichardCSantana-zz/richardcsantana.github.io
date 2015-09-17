@@ -6,12 +6,12 @@
       "gestao-visual.md",
       {
           "attr": {
-              "data-background": "../resources/image/kanban-board.png"
+              "data-background": "resources/image/kanban-board.png"
           }
       },
       {
           "attr": {
-              "data-background": "../resources/image/kanban-card.jpg"
+              "data-background": "resources/image/kanban-card.jpg"
           }
       }
     ],
@@ -19,7 +19,7 @@
       "just-in-time.md",
       {
           "attr": {
-              "data-background": "../resources/image/push_vs_pull.jpg"
+              "data-background": "resources/image/push_vs_pull.jpg"
           }
       }
     ]
