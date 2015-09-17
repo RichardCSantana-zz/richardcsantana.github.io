@@ -5,12 +5,13 @@
     [
         "gestao-visual.md",
         {
-            "filename":"imagem.md",
+            "filename": "quadro.md",
             "attr": {
                 "data-background": "resources/image/kanban-board.png"
             }
         },
         {
+            "filename": "cartao-kanban.md",
             "attr": {
                 "data-background": "resources/image/kanban-card.jpg"
             }
@@ -20,6 +21,7 @@
     [
         "just-in-time.md",
         {
+            "filename": "push-vs-pull.md",
             "attr": {
                 "data-background": "resources/image/push_vs_pull.jpg"
             }
@@ -29,6 +31,7 @@
     [
         "definicao-de-pronto.md",
         {
+            "filename": "dod.md",
             "attr": {
                 "data-background": "resources/image/kanban-dod.png"
             }
@@ -38,17 +41,20 @@
     [
         "processo-e-melhoria-continua.md",
         {
+            "filename": "quadro-corporativo.md",
             "attr": {
                 "data-background": "resources/image/kanban-board-corporate.png"
             }
         },
         {
+            "filename": "explicacao-metricas.md",
             "attr": {
                 "data-background": "resources/image/kanban-metricas.png"
             }
         },
         "metricas.md",
         {
+            "filename": "pdca.md",
             "attr": {
                 "data-background": "resources/image/kanban-pdca.jpg"
             }
