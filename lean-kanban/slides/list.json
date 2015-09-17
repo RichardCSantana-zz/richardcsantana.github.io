@@ -3,24 +3,48 @@
     "agenda.md",
     "pontos-principais.md",
     [
-      "gestao-visual.md",
-      {
-          "attr": {
-              "data-background": "resources/image/kanban-board.png"
-          }
-      },
-      {
-          "attr": {
-              "data-background": "resources/image/kanban-card.jpg"
-          }
-      }
+        "gestao-visual.md",
+        {
+            "attr": {
+                "data-background": "resources/image/kanban-board.png"
+            }
+        },
+        {
+            "attr": {
+                "data-background": "resources/image/kanban-card.jpg"
+            }
+        },
+        "motivacao.md"
     ],
     [
-      "just-in-time.md",
-      {
-          "attr": {
-              "data-background": "resources/image/push_vs_pull.jpg"
-          }
-      }
+        "just-in-time.md",
+        {
+            "attr": {
+                "data-background": "resources/image/push_vs_pull.jpg"
+            }
+        },
+        "motivacao-jit.md"
+    ],
+    [
+        "definicao-de-pronto.md",
+        {
+            "attr": {
+                "data-background": "resources/image/kanban-dod.png"
+            }
+        },
+        "motivacao-dod.md"
+    ],
+    [
+        "processo-e-melhoria-continua.md",
+        {
+            "attr": {
+                "data-background": "resources/image/kanban-metricas.png"
+            }
+        },
+        {
+            "attr": {
+                "data-background": "resources/image/kanban-board-corporate.png"
+            }
+        }
     ]
 ]

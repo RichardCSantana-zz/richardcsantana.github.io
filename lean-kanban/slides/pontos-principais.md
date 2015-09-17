@@ -2,7 +2,7 @@
 
 * Gestão visual
 * Just in time
-* Definition of Done
+* Definition of done
 * Processo e melhoria contínua
 
 note:
