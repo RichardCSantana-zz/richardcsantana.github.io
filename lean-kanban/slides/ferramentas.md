@@ -6,6 +6,7 @@
 * Planejar correções nos processos de planejamento
 * Detectar gargalos no cycletime
 * Planejar correções nos processos operacionais
+* Atuar nas correções planejadas
 
 note:
     Put your speaker notes here.

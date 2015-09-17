@@ -1,6 +1,5 @@
 [
     "index.md",
-    "agenda.md",
     "pontos-principais.md",
     [
         "gestao-visual.md",
@@ -60,5 +59,7 @@
             }
         },
         "ferramentas.md"
-    ]
+    ],
+    "conclusao.md",
+    "duvidas.md"
 ]
