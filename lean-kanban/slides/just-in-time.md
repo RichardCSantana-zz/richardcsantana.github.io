@@ -1,8 +1,8 @@
 ##  Just in time
 
-| PMBOK                               | Kanban                          |
-| :----------------------------------:|:-------------------------------:|
-| Estimativas e prazo definidos       | Medição de capacidade produtiva |
+| PMBOK                               | Kanban                 |
+| :----------------------------------:|:----------------------:|
+| Estimativas e prazo definidos       | Fluxo conforme demanda |
 
 note:
     Put your speaker notes here.

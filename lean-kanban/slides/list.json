@@ -38,13 +38,20 @@
         "processo-e-melhoria-continua.md",
         {
             "attr": {
-                "data-background": "resources/image/kanban-metricas.png"
+                "data-background": "resources/image/kanban-board-corporate.png"
             }
         },
         {
             "attr": {
-                "data-background": "resources/image/kanban-board-corporate.png"
+                "data-background": "resources/image/kanban-metricas.png"
             }
-        }
+        },
+        "metricas.md",
+        {
+            "attr": {
+                "data-background": "resources/image/kanban-pdca.png"
+            }
+        },
+        "ferramentas.md"
     ]
 ]
