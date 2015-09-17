@@ -5,6 +5,7 @@
     [
         "gestao-visual.md",
         {
+            "filename":"imagem.md",
             "attr": {
                 "data-background": "resources/image/kanban-board.png"
             }
