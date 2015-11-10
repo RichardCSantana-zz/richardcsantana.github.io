@@ -1,4 +1,3 @@
-##  quadro corporativo
 
 note:
     Put your speaker notes here.

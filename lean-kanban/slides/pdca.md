@@ -1,4 +1,3 @@
-##  pdca
 
 note:
     Put your speaker notes here.

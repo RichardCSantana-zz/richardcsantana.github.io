@@ -1,4 +1,3 @@
-##  push vs pull
 
 note:
     Put your speaker notes here.

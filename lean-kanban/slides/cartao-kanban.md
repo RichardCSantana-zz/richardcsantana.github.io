@@ -1,4 +1,3 @@
-##  cartão kanban
 
 note:
     Put your speaker notes here.

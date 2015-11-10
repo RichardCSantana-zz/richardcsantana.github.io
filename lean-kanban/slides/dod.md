@@ -1,4 +1,3 @@
-##  dod
 
 note:
     Put your speaker notes here.
