@@ -1,7 +1,7 @@
 
 # lean-kanban
 
-######Fernando Jorge - Gabriel Henrique - Marcelo Hammes - Richard Santana
+######Richard Santana
 
 note:
   Testando
